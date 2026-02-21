@@ -280,7 +280,7 @@ const products = [
 
 
 
-   {
+  {
     "id": 21,
     "title": "Peter England Men's Formal Blazer",
     "brand": "Peter England",
@@ -347,7 +347,7 @@ const products = [
   },
 
 
-   {
+  {
     "id": 26,
     "title": "Louis Philippe Men's Slim Fit Shirt",
     "brand": "Louis Philippe",
@@ -1415,15 +1415,21 @@ const products = [
   }
 ];
 
-app.get("/", (req, res) => {
-  res.send("My API is Running 🚀 Clothes");
-});
-
 app.get("/products", (req, res) => {
-  res.json(products);
+
+  const page = parseInt(req.query._page) || 1;
+  const limit = parseInt(req.query._limit) || products.length;
+
+  const startIndex = (page - 1) * limit;
+  const endIndex = startIndex + limit;
+
+  const paginatedProducts = products.slice(startIndex, endIndex);
+
+  res.set("X-Total-Count", products.length); // pagination header
+  res.json(paginatedProducts);
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = 5000;
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
