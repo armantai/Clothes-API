@@ -17,7 +17,7 @@ const products = [
     "stock": 40,
     "rating": 4.4,
     "description": "Premium slim fit stretchable denim jeans designed for modern men with all-day comfort and durability.",
-    "thumbnail": "https://via.placeholder.com/300?text=Levis+Mens+Jeans"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/j/e/d/-original-imah2mvtsxdvmthe.jpeg?q=70"
   },
   {
     "id": 2,
@@ -30,7 +30,7 @@ const products = [
     "stock": 55,
     "rating": 4.5,
     "description": "Breathable and sweat-wicking Dri-FIT t-shirt perfect for gym, running, and daily active wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Nike+Mens+Tshirt"
+    "image": "https://rukminim2.flixcart.com/image/612/612/kzllrbk0/t-shirt/o/m/y/m-cz9185-013-nike-original-imagbks5csvtjxuu.jpeg?q=70"
   },
   {
     "id": 3,
@@ -43,7 +43,7 @@ const products = [
     "stock": 30,
     "rating": 4.6,
     "description": "Elegant floral printed summer dress made from lightweight fabric, ideal for outings and parties.",
-    "thumbnail": "https://via.placeholder.com/300?text=Zara+Womens+Dress"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/u/o/1/xxl-pltazdr86plum-azzurra-original-imahg3zxxzeetywk.jpeg?q=70"
   },
   {
     "id": 4,
@@ -56,7 +56,7 @@ const products = [
     "stock": 65,
     "rating": 4.3,
     "description": "Soft cotton casual top with comfortable fit and trendy design for everyday wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=HM+Womens+Top"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/t/o/7/s-blue-kurti-print-darzi-fashion-kendra-original-imahjx3qzy7thgmx.jpeg?q=70"
   },
   {
     "id": 5,
@@ -69,7 +69,7 @@ const products = [
     "stock": 70,
     "rating": 4.2,
     "description": "Comfortable and stylish printed t-shirt for kids made with soft breathable cotton fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=USPolo+Kids+Tshirt"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-t-shirt/t/c/3/4-5-years-uktsh1450-u-s-polo-assn-original-imah5txfa5yxvr6a.jpeg?q=70"
   },
 
 
@@ -86,7 +86,7 @@ const products = [
     "stock": 35,
     "rating": 4.4,
     "description": "Comfortable cotton blend hoodie with adjustable hood and front kangaroo pocket for casual and winter wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Adidas+Mens+Hoodie"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/z/k/s/m-iw2939-adidas-original-imah4ya2r9hwezhb.jpeg?q=70"
   },
   {
     "id": 7,
@@ -99,7 +99,7 @@ const products = [
     "stock": 48,
     "rating": 4.5,
     "description": "Stretchable and breathable high waist leggings designed for yoga, gym, and casual wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Puma+Womens+Leggings"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/tight/6/x/q/l-52752001-puma-original-imahezpshk5z3yh7.jpeg?q=70"
   },
   {
     "id": 8,
@@ -112,7 +112,7 @@ const products = [
     "stock": 42,
     "rating": 4.3,
     "description": "Premium cotton formal shirt with slim fit design, perfect for office and business meetings.",
-    "thumbnail": "https://via.placeholder.com/300?text=Allen+Solly+Shirt"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/r/5/9/46-assfmmoph09842-allen-solly-original-imahekxpdh4rkbjs.jpeg?q=70"
   },
   {
     "id": 9,
@@ -125,7 +125,7 @@ const products = [
     "stock": 26,
     "rating": 4.6,
     "description": "Stylish denim jacket for kids made with durable fabric and comfortable inner lining.",
-    "thumbnail": "https://via.placeholder.com/300?text=Zara+Kids+Jacket"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/0/r/h/6-7-years-1-no-denim-jakert-black-fashiva-original-imahgxszfkqmj3v4.jpeg?q=70"
   },
   {
     "id": 10,
@@ -138,7 +138,7 @@ const products = [
     "stock": 50,
     "rating": 4.4,
     "description": "Trendy oversized sweatshirt made with soft fleece fabric for cozy and relaxed styling.",
-    "thumbnail": "https://via.placeholder.com/300?text=HM+Oversized+Sweatshirt"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/k/a/h/m-tbt-sw-strip-knot-brown-tabadtod-original-imahftfhgahtgz8t.jpeg?q=70"
   },
 
 
@@ -155,7 +155,7 @@ const products = [
     "stock": 46,
     "rating": 4.2,
     "description": "Trendy casual check shirt made with breathable cotton fabric, perfect for daily wear and outings.",
-    "thumbnail": "https://via.placeholder.com/300?text=Roadster+Mens+Shirt"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/1/c/b/m-10863018-roadster-original-imah6tdhk5nj8vnj.jpeg?q=70"
   },
   {
     "id": 12,
@@ -168,7 +168,7 @@ const products = [
     "stock": 38,
     "rating": 4.5,
     "description": "Elegant printed kurti crafted from soft rayon fabric, ideal for festive and casual occasions.",
-    "thumbnail": "https://via.placeholder.com/300?text=Biba+Womens+Kurti"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/h/d/z/-original-imahghesjh8yprnk.jpeg?q=70"
   },
   {
     "id": 13,
@@ -181,7 +181,7 @@ const products = [
     "stock": 72,
     "rating": 4.1,
     "description": "Comfortable cotton shorts for kids with elastic waistband and playful design.",
-    "thumbnail": "https://via.placeholder.com/300?text=Max+Kids+Shorts"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-short/1/k/x/8-9-years-s24fct20ablack-max-original-imagxngubywzmgw9.jpeg?q=70"
   },
   {
     "id": 14,
@@ -194,7 +194,7 @@ const products = [
     "stock": 34,
     "rating": 4.4,
     "description": "Premium slim-fit formal trousers designed for office and business wear with superior comfort.",
-    "thumbnail": "https://via.placeholder.com/300?text=VanHeusen+Trousers"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/n/t/h/40-vhtffslb193498-van-heusen-original-imahjc29untqzgay.jpeg?q=70"
   },
   {
     "id": 15,
@@ -207,7 +207,7 @@ const products = [
     "stock": 41,
     "rating": 4.3,
     "description": "Stretchable skinny jeans with modern fit and stylish finish for everyday fashion.",
-    "thumbnail": "https://via.placeholder.com/300?text=Forever21+Jeans"
+    "image": "https://rukminim2.flixcart.com/image/612/612/l432ikw0/jean/d/x/w/24-59668702-forever21-original-imagf2fzt8gcykdm.jpeg?q=70"
   },
 
 
@@ -223,7 +223,7 @@ const products = [
     "stock": 36,
     "rating": 4.6,
     "description": "Classic polo t-shirt made with premium cotton fabric, featuring signature logo and comfortable fit.",
-    "thumbnail": "https://via.placeholder.com/300?text=Tommy+Mens+Polo"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/v/b/3/-original-imahggfggv9zhsqc.jpeg?q=70"
   },
   {
     "id": 17,
@@ -236,7 +236,7 @@ const products = [
     "stock": 44,
     "rating": 4.3,
     "description": "Stylish printed palazzo pants with relaxed fit, perfect for casual and festive wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=W+Palazzo"
+    "image": "https://rukminim2.flixcart.com/image/612/612/jmwch3k0/trouser/p/x/r/s-17au60645-50141-w-original-imaf9pbzzyzgtrpg.jpeg?q=70"
   },
   {
     "id": 18,
@@ -249,7 +249,7 @@ const products = [
     "stock": 52,
     "rating": 4.4,
     "description": "Soft and warm winter sweater designed for kids with comfortable fabric and cute patterns.",
-    "thumbnail": "https://via.placeholder.com/300?text=Mothercare+Sweater"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweater/0/c/k/18-24-months-bpam-gtwo-original-imahg54yvqrrgafq.jpeg?q=70"
   },
   {
     "id": 19,
@@ -262,7 +262,7 @@ const products = [
     "stock": 27,
     "rating": 4.5,
     "description": "Trendy slim fit jacket crafted with durable fabric, ideal for winter and casual outings.",
-    "thumbnail": "https://via.placeholder.com/300?text=JackJones+Jacket"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/c/o/u/3xl-no-117703903-jack-jones-original-imah8nxzq5xs5vst.jpeg?q=70"
   },
   {
     "id": 20,
@@ -275,7 +275,7 @@ const products = [
     "stock": 58,
     "rating": 4.2,
     "description": "Stylish casual crop top made with soft stretchable fabric, perfect for daily fashion wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=ONLY+Crop+Top"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/top/p/c/h/xl-194452202-only-original-imaguhzgakwz9yva.jpeg?q=70"
   },
 
 
@@ -291,7 +291,7 @@ const products = [
     "stock": 29,
     "rating": 4.4,
     "description": "Elegant formal blazer crafted with premium fabric, perfect for office meetings and special occasions.",
-    "thumbnail": "https://via.placeholder.com/300?text=Peter+England+Blazer"
+    "image": "https://rukminim2.flixcart.com/image/612/612/ku2zjww0/blazer/l/s/g/44-pibzwnsfr68004-peter-england-original-imag7aahnphb8n7g.jpeg?q=70"
   },
   {
     "id": 22,
@@ -304,7 +304,7 @@ const products = [
     "stock": 37,
     "rating": 4.5,
     "description": "Beautiful ethnic kurta set with printed design and comfortable fabric for festive wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Global+Desi+Kurta"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/salwar-kurta-dupatta/n/d/2/s-jacquard-bushi-original-imahkrcfwfwasgvt.jpeg?q=70"
   },
   {
     "id": 23,
@@ -317,7 +317,7 @@ const products = [
     "stock": 61,
     "rating": 4.2,
     "description": "Durable and comfortable casual jeans for kids with stretchable denim fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Gini+Jony+Jeans"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/d/q/j/15-16-years-121246527412-9207-gini-jony-original-imaggkgjzh8d8xtw.jpeg?q=70"
   },
   {
     "id": 24,
@@ -330,7 +330,7 @@ const products = [
     "stock": 40,
     "rating": 4.3,
     "description": "Warm and stylish casual hoodie made with soft fleece fabric for everyday comfort.",
-    "thumbnail": "https://via.placeholder.com/300?text=USPolo+Hoodie"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/h/c/f/s-udswssoe0313-u-s-polo-assn-denim-co-original-imahg9e9hvwnmyy6.jpeg?q=70"
   },
   {
     "id": 25,
@@ -343,7 +343,7 @@ const products = [
     "stock": 33,
     "rating": 4.4,
     "description": "Modern skinny fit trousers designed with stretchable material for office and casual styling.",
-    "thumbnail": "https://via.placeholder.com/300?text=Vero+Moda+Trousers"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/trouser/r/s/h/m-132879201-vero-moda-original-imagpneyn5zutwsf.jpeg?q=70"
   },
 
 
@@ -358,7 +358,7 @@ const products = [
     "stock": 38,
     "rating": 4.5,
     "description": "Premium slim fit formal shirt crafted with high-quality cotton fabric for a sharp and elegant look.",
-    "thumbnail": "https://via.placeholder.com/300?text=Louis+Philippe+Shirt"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/g/f/h/m-tbh-andreas-mr-the-bear-house-original-imahcdymhksn2zye.jpeg?q=70"
   },
   {
     "id": 27,
@@ -371,7 +371,7 @@ const products = [
     "stock": 26,
     "rating": 4.6,
     "description": "Elegant floral maxi dress made with lightweight fabric, perfect for parties and special occasions.",
-    "thumbnail": "https://via.placeholder.com/300?text=AND+Maxi+Dress"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/dress/3/p/x/s-stylish-smocking-dress-bright-nex-original-imah8mqgnumfugxz.jpeg?q=70"
   },
   {
     "id": 28,
@@ -384,7 +384,7 @@ const products = [
     "stock": 54,
     "rating": 4.3,
     "description": "Soft and comfortable printed night suit set designed for kids with breathable cotton fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Hopscotch+Night+Suit"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/l/3/8/3-4-years-cottonshirt1-emblica-original-imahfca9cgfas5sg.jpeg?q=70"
   },
   {
     "id": 29,
@@ -397,7 +397,7 @@ const products = [
     "stock": 42,
     "rating": 4.4,
     "description": "Classic regular fit denim jeans with durable stitching and comfortable stretch fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Wrangler+Jeans"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/i/m/j/40-wmjn005349-wrangler-original-imagvgkjhz4pbhm2.jpeg?q=70"
   },
   {
     "id": 30,
@@ -410,7 +410,7 @@ const products = [
     "stock": 31,
     "rating": 4.5,
     "description": "Traditional cotton kurta with elegant design and soft breathable fabric for everyday ethnic wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Fabindia+Kurta"
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kurta/5/n/a/m-1043913indigo-fabindia-original-imahgzhamcr8jyke.jpeg?q=70"
   },
 
 
@@ -427,7 +427,7 @@ const products = [
     "stock": 47,
     "rating": 4.3,
     "description": "Comfortable polo t-shirt made with breathable cotton fabric for casual everyday wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Allen+Solly+Polo"
+    "image": "https://via.placeholder.com/300?text=Allen+Solly+Polo"
   },
   {
     "id": 32,
@@ -440,7 +440,7 @@ const products = [
     "stock": 34,
     "rating": 4.6,
     "description": "Graceful Anarkali kurti featuring elegant embroidery, perfect for festive occasions.",
-    "thumbnail": "https://via.placeholder.com/300?text=Biba+Anarkali"
+    "image": "https://via.placeholder.com/300?text=Biba+Anarkali"
   },
   {
     "id": 33,
@@ -453,7 +453,7 @@ const products = [
     "stock": 28,
     "rating": 4.4,
     "description": "Warm and cozy winter jacket designed for kids with soft inner lining and hood.",
-    "thumbnail": "https://via.placeholder.com/300?text=Mothercare+Jacket"
+    "image": "https://via.placeholder.com/300?text=Mothercare+Jacket"
   },
   {
     "id": 34,
@@ -466,7 +466,7 @@ const products = [
     "stock": 36,
     "rating": 4.7,
     "description": "Premium slim fit denim jeans with durable stitching and modern styling.",
-    "thumbnail": "https://via.placeholder.com/300?text=Levis+Slim+Jeans"
+    "image": "https://via.placeholder.com/300?text=Levis+Slim+Jeans"
   },
   {
     "id": 35,
@@ -479,7 +479,7 @@ const products = [
     "stock": 30,
     "rating": 4.5,
     "description": "Trendy denim jacket with classic button closure and comfortable stretch fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=ONLY+Denim+Jacket"
+    "image": "https://via.placeholder.com/300?text=ONLY+Denim+Jacket"
   },
 
 
@@ -494,7 +494,7 @@ const products = [
     "stock": 41,
     "rating": 4.4,
     "description": "Classic formal trousers designed with wrinkle-resistant fabric for a polished office look.",
-    "thumbnail": "https://via.placeholder.com/300?text=Van+Heusen+Trousers"
+    "image": "https://via.placeholder.com/300?text=Van+Heusen+Trousers"
   },
   {
     "id": 37,
@@ -507,7 +507,7 @@ const products = [
     "stock": 39,
     "rating": 4.5,
     "description": "Elegant printed straight kurta made with soft breathable fabric for daily ethnic styling.",
-    "thumbnail": "https://via.placeholder.com/300?text=W+Kurta"
+    "image": "https://via.placeholder.com/300?text=W+Kurta"
   },
   {
     "id": 38,
@@ -520,7 +520,7 @@ const products = [
     "stock": 33,
     "rating": 4.3,
     "description": "Stylish party dress for kids featuring beautiful design and comfortable inner lining.",
-    "thumbnail": "https://via.placeholder.com/300?text=Peppermint+Dress"
+    "image": "https://via.placeholder.com/300?text=Peppermint+Dress"
   },
   {
     "id": 39,
@@ -533,7 +533,7 @@ const products = [
     "stock": 46,
     "rating": 4.4,
     "description": "Lightweight and stretchable sports track pants perfect for workouts and daily activities.",
-    "thumbnail": "https://via.placeholder.com/300?text=HRX+Track+Pants"
+    "image": "https://via.placeholder.com/300?text=HRX+Track+Pants"
   },
   {
     "id": 40,
@@ -546,7 +546,7 @@ const products = [
     "stock": 27,
     "rating": 4.6,
     "description": "Trendy oversized sweater crafted with soft knit fabric for a cozy winter look.",
-    "thumbnail": "https://via.placeholder.com/300?text=Zara+Sweater"
+    "image": "https://via.placeholder.com/300?text=Zara+Sweater"
   },
 
 
@@ -562,7 +562,7 @@ const products = [
     "stock": 22,
     "rating": 4.6,
     "description": "Premium formal suit tailored with fine fabric for business meetings and special occasions.",
-    "thumbnail": "https://via.placeholder.com/300?text=Park+Avenue+Suit"
+    "image": "https://via.placeholder.com/300?text=Park+Avenue+Suit"
   },
   {
     "id": 42,
@@ -575,7 +575,7 @@ const products = [
     "stock": 58,
     "rating": 4.2,
     "description": "Trendy crop top with modern fit and soft fabric, perfect for casual outings.",
-    "thumbnail": "https://via.placeholder.com/300?text=Sassafras+Crop+Top"
+    "image": "https://via.placeholder.com/300?text=Sassafras+Crop+Top"
   },
   {
     "id": 43,
@@ -588,7 +588,7 @@ const products = [
     "stock": 73,
     "rating": 4.3,
     "description": "Soft cotton t-shirt for kids with playful prints and comfortable fit.",
-    "thumbnail": "https://via.placeholder.com/300?text=Mini+Klub+TShirt"
+    "image": "https://via.placeholder.com/300?text=Mini+Klub+TShirt"
   },
   {
     "id": 44,
@@ -601,7 +601,7 @@ const products = [
     "stock": 49,
     "rating": 4.4,
     "description": "Stylish checked casual shirt made with breathable cotton for everyday wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Roadster+Shirt"
+    "image": "https://via.placeholder.com/300?text=Roadster+Shirt"
   },
   {
     "id": 45,
@@ -614,7 +614,7 @@ const products = [
     "stock": 36,
     "rating": 4.5,
     "description": "Elegant pleated skirt designed with lightweight fabric for a chic and modern look.",
-    "thumbnail": "https://via.placeholder.com/300?text=HM+Pleated+Skirt"
+    "image": "https://via.placeholder.com/300?text=HM+Pleated+Skirt"
   },
 
 
@@ -630,7 +630,7 @@ const products = [
     "stock": 25,
     "rating": 4.5,
     "description": "Stylish casual jacket with modern fit and premium fabric for winter fashion.",
-    "thumbnail": "https://via.placeholder.com/300?text=Jack+Jones+Jacket"
+    "image": "https://via.placeholder.com/300?text=Jack+Jones+Jacket"
   },
   {
     "id": 47,
@@ -643,7 +643,7 @@ const products = [
     "stock": 32,
     "rating": 4.4,
     "description": "Trendy bodycon dress crafted with stretchable material for party wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Forever21+Dress"
+    "image": "https://via.placeholder.com/300?text=Forever21+Dress"
   },
   {
     "id": 48,
@@ -656,7 +656,7 @@ const products = [
     "stock": 44,
     "rating": 4.3,
     "description": "Comfortable denim dungaree set designed for active kids.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Dungaree"
+    "image": "https://via.placeholder.com/300?text=Kids+Dungaree"
   },
   {
     "id": 49,
@@ -669,7 +669,7 @@ const products = [
     "stock": 38,
     "rating": 4.6,
     "description": "Premium crew neck t-shirt with signature branding and soft cotton fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Tommy+TShirt"
+    "image": "https://via.placeholder.com/300?text=Tommy+TShirt"
   },
   {
     "id": 50,
@@ -682,7 +682,7 @@ const products = [
     "stock": 60,
     "rating": 4.2,
     "description": "Lightweight casual top perfect for daily wear with comfortable fit.",
-    "thumbnail": "https://via.placeholder.com/300?text=Zudio+Top"
+    "image": "https://via.placeholder.com/300?text=Zudio+Top"
   },
   {
     "id": 51,
@@ -695,7 +695,7 @@ const products = [
     "stock": 70,
     "rating": 4.3,
     "description": "Breathable sports shorts designed for active kids with elastic waistband.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Shorts"
+    "image": "https://via.placeholder.com/300?text=Kids+Shorts"
   },
   {
     "id": 52,
@@ -708,7 +708,7 @@ const products = [
     "stock": 41,
     "rating": 4.5,
     "description": "Elegant formal shirt with wrinkle-resistant fabric for office wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Arrow+Shirt"
+    "image": "https://via.placeholder.com/300?text=Arrow+Shirt"
   },
   {
     "id": 53,
@@ -721,7 +721,7 @@ const products = [
     "stock": 48,
     "rating": 4.4,
     "description": "Stylish palazzo pants with relaxed fit and soft breathable material.",
-    "thumbnail": "https://via.placeholder.com/300?text=Palazzo+Pants"
+    "image": "https://via.placeholder.com/300?text=Palazzo+Pants"
   },
   {
     "id": 54,
@@ -734,7 +734,7 @@ const products = [
     "stock": 52,
     "rating": 4.3,
     "description": "Warm knitted sweater for kids with comfortable soft inner lining.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Sweater"
+    "image": "https://via.placeholder.com/300?text=Kids+Sweater"
   },
   {
     "id": 55,
@@ -747,7 +747,7 @@ const products = [
     "stock": 45,
     "rating": 4.5,
     "description": "Casual graphic t-shirt made with premium cotton for trendy street style.",
-    "thumbnail": "https://via.placeholder.com/300?text=Being+Human+TShirt"
+    "image": "https://via.placeholder.com/300?text=Being+Human+TShirt"
   },
 
 
@@ -762,7 +762,7 @@ const products = [
     "stock": 34,
     "rating": 4.4,
     "description": "Slim fit casual shirt with modern styling and breathable cotton fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Mufti+Shirt"
+    "image": "https://via.placeholder.com/300?text=Mufti+Shirt"
   },
   {
     "id": 57,
@@ -775,7 +775,7 @@ const products = [
     "stock": 37,
     "rating": 4.5,
     "description": "Elegant embroidered kurta crafted with soft fabric for festive and daily wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Libas+Kurta"
+    "image": "https://via.placeholder.com/300?text=Libas+Kurta"
   },
   {
     "id": 58,
@@ -788,7 +788,7 @@ const products = [
     "stock": 55,
     "rating": 4.3,
     "description": "Cute and stylish frock dress designed with soft and comfortable material for kids.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Frock"
+    "image": "https://via.placeholder.com/300?text=Kids+Frock"
   },
   {
     "id": 59,
@@ -801,7 +801,7 @@ const products = [
     "stock": 29,
     "rating": 4.6,
     "description": "Classic denim jacket with durable stitching and comfortable fit.",
-    "thumbnail": "https://via.placeholder.com/300?text=Denim+Jacket"
+    "image": "https://via.placeholder.com/300?text=Denim+Jacket"
   },
   {
     "id": 60,
@@ -814,7 +814,7 @@ const products = [
     "stock": 43,
     "rating": 4.4,
     "description": "Chic A-line dress with lightweight fabric for casual outings.",
-    "thumbnail": "https://via.placeholder.com/300?text=ALine+Dress"
+    "image": "https://via.placeholder.com/300?text=ALine+Dress"
   },
   {
     "id": 61,
@@ -827,7 +827,7 @@ const products = [
     "stock": 68,
     "rating": 4.2,
     "description": "Soft cotton romper designed for maximum comfort and flexibility.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Romper"
+    "image": "https://via.placeholder.com/300?text=Kids+Romper"
   },
   {
     "id": 62,
@@ -840,7 +840,7 @@ const products = [
     "stock": 21,
     "rating": 4.6,
     "description": "Premium formal blazer tailored with high-quality fabric for elegant styling.",
-    "thumbnail": "https://via.placeholder.com/300?text=Formal+Blazer"
+    "image": "https://via.placeholder.com/300?text=Formal+Blazer"
   },
   {
     "id": 63,
@@ -853,7 +853,7 @@ const products = [
     "stock": 46,
     "rating": 4.5,
     "description": "Comfortable printed kurti ideal for daily ethnic wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Printed+Kurti"
+    "image": "https://via.placeholder.com/300?text=Printed+Kurti"
   },
   {
     "id": 64,
@@ -866,7 +866,7 @@ const products = [
     "stock": 39,
     "rating": 4.4,
     "description": "Warm hoodie for kids with stylish design and soft fleece lining.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Hoodie"
+    "image": "https://via.placeholder.com/300?text=Kids+Hoodie"
   },
   {
     "id": 65,
@@ -879,7 +879,7 @@ const products = [
     "stock": 50,
     "rating": 4.7,
     "description": "High-performance sports t-shirt with sweat-wicking technology.",
-    "thumbnail": "https://via.placeholder.com/300?text=Nike+Sports+TShirt"
+    "image": "https://via.placeholder.com/300?text=Nike+Sports+TShirt"
   },
 
 
@@ -895,7 +895,7 @@ const products = [
     "stock": 48,
     "rating": 4.6,
     "description": "Lightweight training shorts with moisture-wicking fabric for workouts.",
-    "thumbnail": "https://via.placeholder.com/300?text=Adidas+Shorts"
+    "image": "https://via.placeholder.com/300?text=Adidas+Shorts"
   },
   {
     "id": 67,
@@ -908,7 +908,7 @@ const products = [
     "stock": 42,
     "rating": 4.3,
     "description": "Stylish casual shirt with relaxed fit and breathable material.",
-    "thumbnail": "https://via.placeholder.com/300?text=Women+Casual+Shirt"
+    "image": "https://via.placeholder.com/300?text=Women+Casual+Shirt"
   },
   {
     "id": 68,
@@ -921,7 +921,7 @@ const products = [
     "stock": 57,
     "rating": 4.4,
     "description": "Comfortable printed shorts set designed for playful kids.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Shorts+Set"
+    "image": "https://via.placeholder.com/300?text=Kids+Shorts+Set"
   },
   {
     "id": 69,
@@ -934,7 +934,7 @@ const products = [
     "stock": 30,
     "rating": 4.5,
     "description": "Durable sports jacket with modern fit and zip closure.",
-    "thumbnail": "https://via.placeholder.com/300?text=Reebok+Jacket"
+    "image": "https://via.placeholder.com/300?text=Reebok+Jacket"
   },
   {
     "id": 70,
@@ -947,7 +947,7 @@ const products = [
     "stock": 36,
     "rating": 4.4,
     "description": "Trendy denim skirt with stylish cut and comfortable fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Denim+Skirt"
+    "image": "https://via.placeholder.com/300?text=Denim+Skirt"
   },
   {
     "id": 71,
@@ -960,7 +960,7 @@ const products = [
     "stock": 33,
     "rating": 4.3,
     "description": "Elegant party suit set for kids with soft inner lining.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Party+Suit"
+    "image": "https://via.placeholder.com/300?text=Kids+Party+Suit"
   },
   {
     "id": 72,
@@ -973,7 +973,7 @@ const products = [
     "stock": 44,
     "rating": 4.6,
     "description": "Comfortable track jacket with sporty design and breathable fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Puma+Track+Jacket"
+    "image": "https://via.placeholder.com/300?text=Puma+Track+Jacket"
   },
   {
     "id": 73,
@@ -986,7 +986,7 @@ const products = [
     "stock": 28,
     "rating": 4.5,
     "description": "Warm and stylish hoodie perfect for winter outings.",
-    "thumbnail": "https://via.placeholder.com/300?text=Women+Hoodie"
+    "image": "https://via.placeholder.com/300?text=Women+Hoodie"
   },
   {
     "id": 74,
@@ -999,7 +999,7 @@ const products = [
     "stock": 61,
     "rating": 4.2,
     "description": "Soft cotton shirt with fun prints designed for kids.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Cotton+Shirt"
+    "image": "https://via.placeholder.com/300?text=Kids+Cotton+Shirt"
   },
   {
     "id": 75,
@@ -1012,7 +1012,7 @@ const products = [
     "stock": 27,
     "rating": 4.7,
     "description": "Premium graphic hoodie crafted with thick fleece for extra warmth.",
-    "thumbnail": "https://via.placeholder.com/300?text=Superdry+Hoodie"
+    "image": "https://via.placeholder.com/300?text=Superdry+Hoodie"
   },
 
 
@@ -1029,7 +1029,7 @@ const products = [
     "stock": 35,
     "rating": 4.6,
     "description": "Premium slim fit t-shirt made with soft stretch cotton for a modern look.",
-    "thumbnail": "https://via.placeholder.com/300?text=CK+TShirt"
+    "image": "https://via.placeholder.com/300?text=CK+TShirt"
   },
   {
     "id": 77,
@@ -1042,7 +1042,7 @@ const products = [
     "stock": 29,
     "rating": 4.5,
     "description": "Beautiful ethnic gown with intricate prints and flowy fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Ethnic+Gown"
+    "image": "https://via.placeholder.com/300?text=Ethnic+Gown"
   },
   {
     "id": 78,
@@ -1055,7 +1055,7 @@ const products = [
     "stock": 64,
     "rating": 4.3,
     "description": "Colorful printed t-shirt designed with breathable cotton fabric for kids.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Casual+TShirt"
+    "image": "https://via.placeholder.com/300?text=Kids+Casual+TShirt"
   },
   {
     "id": 79,
@@ -1068,7 +1068,7 @@ const products = [
     "stock": 23,
     "rating": 4.6,
     "description": "Rugged outdoor jacket built for durability and warmth.",
-    "thumbnail": "https://via.placeholder.com/300?text=Outdoor+Jacket"
+    "image": "https://via.placeholder.com/300?text=Outdoor+Jacket"
   },
   {
     "id": 80,
@@ -1081,7 +1081,7 @@ const products = [
     "stock": 31,
     "rating": 4.5,
     "description": "Elegant midi dress crafted with lightweight fabric for special occasions.",
-    "thumbnail": "https://via.placeholder.com/300?text=Midi+Dress"
+    "image": "https://via.placeholder.com/300?text=Midi+Dress"
   },
   {
     "id": 81,
@@ -1094,7 +1094,7 @@ const products = [
     "stock": 52,
     "rating": 4.4,
     "description": "Comfortable joggers with elastic waistband for active kids.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Joggers"
+    "image": "https://via.placeholder.com/300?text=Kids+Joggers"
   },
   {
     "id": 82,
@@ -1107,7 +1107,7 @@ const products = [
     "stock": 47,
     "rating": 4.6,
     "description": "Performance sports tank with sweat-wicking technology.",
-    "thumbnail": "https://via.placeholder.com/300?text=Sports+Tank"
+    "image": "https://via.placeholder.com/300?text=Sports+Tank"
   },
   {
     "id": 83,
@@ -1120,7 +1120,7 @@ const products = [
     "stock": 40,
     "rating": 4.4,
     "description": "Trendy floral top with relaxed fit and soft material.",
-    "thumbnail": "https://via.placeholder.com/300?text=Floral+Top"
+    "image": "https://via.placeholder.com/300?text=Floral+Top"
   },
   {
     "id": 84,
@@ -1133,7 +1133,7 @@ const products = [
     "stock": 28,
     "rating": 4.3,
     "description": "Warm winter coat with hood and soft inner lining for kids.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Winter+Coat"
+    "image": "https://via.placeholder.com/300?text=Kids+Winter+Coat"
   },
   {
     "id": 85,
@@ -1146,7 +1146,7 @@ const products = [
     "stock": 26,
     "rating": 4.7,
     "description": "Premium printed casual shirt with stylish fit and smooth fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Printed+Casual+Shirt"
+    "image": "https://via.placeholder.com/300?text=Printed+Casual+Shirt"
   },
 
 
@@ -1161,7 +1161,7 @@ const products = [
     "stock": 39,
     "rating": 4.5,
     "description": "Classic polo t-shirt with breathable cotton fabric and comfortable fit.",
-    "thumbnail": "https://via.placeholder.com/300?text=Arrow+Sport+Polo"
+    "image": "https://via.placeholder.com/300?text=Arrow+Sport+Polo"
   },
   {
     "id": 87,
@@ -1174,7 +1174,7 @@ const products = [
     "stock": 18,
     "rating": 4.6,
     "description": "Elegant festive lehenga set with detailed embroidery and premium fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Lehenga+Set"
+    "image": "https://via.placeholder.com/300?text=Lehenga+Set"
   },
   {
     "id": 88,
@@ -1187,7 +1187,7 @@ const products = [
     "stock": 54,
     "rating": 4.3,
     "description": "Soft and warm casual hoodie for kids with modern design.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Casual+Hoodie"
+    "image": "https://via.placeholder.com/300?text=Kids+Casual+Hoodie"
   },
   {
     "id": 89,
@@ -1200,7 +1200,7 @@ const products = [
     "stock": 31,
     "rating": 4.6,
     "description": "Warm wool sweater designed for winter comfort and elegant style.",
-    "thumbnail": "https://via.placeholder.com/300?text=Wool+Sweater"
+    "image": "https://via.placeholder.com/300?text=Wool+Sweater"
   },
   {
     "id": 90,
@@ -1213,7 +1213,7 @@ const products = [
     "stock": 36,
     "rating": 4.4,
     "description": "Stylish wrap dress with flattering fit and soft fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Wrap+Dress"
+    "image": "https://via.placeholder.com/300?text=Wrap+Dress"
   },
   {
     "id": 91,
@@ -1226,7 +1226,7 @@ const products = [
     "stock": 63,
     "rating": 4.2,
     "description": "Fun graphic t-shirt with vibrant prints and comfortable cotton fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Graphic+TShirt"
+    "image": "https://via.placeholder.com/300?text=Graphic+TShirt"
   },
   {
     "id": 92,
@@ -1239,7 +1239,7 @@ const products = [
     "stock": 42,
     "rating": 4.5,
     "description": "Smart casual trousers suitable for office and daily wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Casual+Trousers"
+    "image": "https://via.placeholder.com/300?text=Casual+Trousers"
   },
   {
     "id": 93,
@@ -1252,7 +1252,7 @@ const products = [
     "stock": 40,
     "rating": 4.4,
     "description": "Trendy checked shirt with relaxed fit and soft fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Checked+Shirt"
+    "image": "https://via.placeholder.com/300?text=Checked+Shirt"
   },
   {
     "id": 94,
@@ -1265,7 +1265,7 @@ const products = [
     "stock": 34,
     "rating": 4.3,
     "description": "Stylish party dress for kids with elegant detailing.",
-    "thumbnail": "https://via.placeholder.com/300?text=Kids+Party+Dress"
+    "image": "https://via.placeholder.com/300?text=Kids+Party+Dress"
   },
   {
     "id": 95,
@@ -1278,7 +1278,7 @@ const products = [
     "stock": 28,
     "rating": 4.7,
     "description": "Premium casual hoodie with soft fleece interior and modern design.",
-    "thumbnail": "https://via.placeholder.com/300?text=Casual+Hoodie"
+    "image": "https://via.placeholder.com/300?text=Casual+Hoodie"
   },
 
 
@@ -1294,7 +1294,7 @@ const products = [
     "stock": 46,
     "rating": 4.5,
     "description": "Breathable active t-shirt designed for workouts and daily comfort.",
-    "thumbnail": "https://via.placeholder.com/300?text=Active+TShirt"
+    "image": "https://via.placeholder.com/300?text=Active+TShirt"
   },
   {
     "id": 97,
@@ -1307,7 +1307,7 @@ const products = [
     "stock": 38,
     "rating": 4.4,
     "description": "Stylish ruffle dress with soft fabric and elegant silhouette.",
-    "thumbnail": "https://via.placeholder.com/300?text=Ruffle+Dress"
+    "image": "https://via.placeholder.com/300?text=Ruffle+Dress"
   },
   {
     "id": 98,
@@ -1320,7 +1320,7 @@ const products = [
     "stock": 59,
     "rating": 4.3,
     "description": "Comfortable printed pyjama set made from soft cotton for kids.",
-    "thumbnail": "https://via.placeholder.com/300?text=Pyjama+Set"
+    "image": "https://via.placeholder.com/300?text=Pyjama+Set"
   },
   {
     "id": 99,
@@ -1333,7 +1333,7 @@ const products = [
     "stock": 33,
     "rating": 4.6,
     "description": "Classic regular fit shirt with durable stitching and premium finish.",
-    "thumbnail": "https://via.placeholder.com/300?text=Regular+Fit+Shirt"
+    "image": "https://via.placeholder.com/300?text=Regular+Fit+Shirt"
   },
   {
     "id": 100,
@@ -1346,7 +1346,7 @@ const products = [
     "stock": 26,
     "rating": 4.5,
     "description": "Elegant printed saree crafted with lightweight and graceful fabric.",
-    "thumbnail": "https://via.placeholder.com/300?text=Printed+Saree"
+    "image": "https://via.placeholder.com/300?text=Printed+Saree"
   },
   {
     "id": 101,
@@ -1359,7 +1359,7 @@ const products = [
     "stock": 67,
     "rating": 4.2,
     "description": "Soft cotton shorts designed for maximum comfort and flexibility.",
-    "thumbnail": "https://via.placeholder.com/300?text=Cotton+Shorts"
+    "image": "https://via.placeholder.com/300?text=Cotton+Shorts"
   },
   {
     "id": 102,
@@ -1372,7 +1372,7 @@ const products = [
     "stock": 19,
     "rating": 4.7,
     "description": "Premium formal suit tailored for sharp business and event styling.",
-    "thumbnail": "https://via.placeholder.com/300?text=Formal+Suit"
+    "image": "https://via.placeholder.com/300?text=Formal+Suit"
   },
   {
     "id": 103,
@@ -1385,7 +1385,7 @@ const products = [
     "stock": 41,
     "rating": 4.4,
     "description": "Beautiful embellished kurta ideal for festive and casual wear.",
-    "thumbnail": "https://via.placeholder.com/300?text=Embellished+Kurta"
+    "image": "https://via.placeholder.com/300?text=Embellished+Kurta"
   },
   {
     "id": 104,
@@ -1398,7 +1398,7 @@ const products = [
     "stock": 45,
     "rating": 4.3,
     "description": "Warm winter tracksuit set perfect for outdoor activities.",
-    "thumbnail": "https://via.placeholder.com/300?text=Winter+Tracksuit"
+    "image": "https://via.placeholder.com/300?text=Winter+Tracksuit"
   },
   {
     "id": 105,
@@ -1411,7 +1411,7 @@ const products = [
     "stock": 37,
     "rating": 4.6,
     "description": "Comfortable casual sweatshirt with soft inner lining and modern fit.",
-    "thumbnail": "https://via.placeholder.com/300?text=Casual+Sweatshirt"
+    "image": "https://via.placeholder.com/300?text=Casual+Sweatshirt"
   }
 ];
 
